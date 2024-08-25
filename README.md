@@ -40,8 +40,8 @@ On small screens :
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution : https://www.frontendmentor.io/solutions/responsive-mobile-first-cards-layout-with-grid-kIdhBrIjhw
+- Live Site : https://may55a.github.io/four-card-feature-section/
 
 ## My process
 
